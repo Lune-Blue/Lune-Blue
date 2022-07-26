@@ -1,12 +1,11 @@
 
 
 ## About 👋
------------------------
 * I'm majored in Computer Science at Yonsei University  
 * I'm interested in NLP, especially Dialogue Agent and Commonsense Reasoning  
 * Contact: tmdwns7546@yonsei.ac.kr
 
-For more information about me, click [here](https://lune-blue.github.io/)
+For more information about me, click [here](https://lune-blue.github.io/about/)
 
 <!--
 **Lune-Blue/Lune-Blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
