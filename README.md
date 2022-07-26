@@ -1,7 +1,7 @@
 
 
 ### About 👋
----
+<hr/>
 * I'm majored in Computer Science at Yonsei University  
 * I'm interested in NLP, especially Dialogue Agent and Commonsense Reasoning  
 * Contact: tmdwns7546@yonsei.ac.kr
