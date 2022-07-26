@@ -1,6 +1,6 @@
 
 
-### About 👋
+## About 👋
 -----------------------
 * I'm majored in Computer Science at Yonsei University  
 * I'm interested in NLP, especially Dialogue Agent and Commonsense Reasoning  
