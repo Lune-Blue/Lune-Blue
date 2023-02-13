@@ -2,7 +2,6 @@
 
 ## About 👋
 * I majored Computer Science at Yonsei University  
-* I have a lot of experience of data migration, backend & infra.
 * I am interested in NLP, especially Dialogue Agent and Commonsense Reasoning  
 * Contact: tmdwns7546@yonsei.ac.kr
 
