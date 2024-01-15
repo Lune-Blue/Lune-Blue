@@ -3,7 +3,7 @@
 ## About 👋
 * I majored Computer Science at Yonsei University  
 * I am interested in NLP, especially leveraging LLMs for various domain.
-* Contact: tmdwns7546@yonsei.ac.kr
+* Contact: tmdwns7546@yonsei.ac.kr or lune-blue@yonsei.ac.kr
 
 For more information about me, click [here](https://lune-blue.github.io/about/)
 
